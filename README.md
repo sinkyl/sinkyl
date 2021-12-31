@@ -16,6 +16,93 @@
 
 <br />
 
+<svg fill="none" viewBox="0 0 750 600" width="750" height="600" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                #hexagon {
+                    width: 750px;
+                    text-align: center;
+                    overflow: hidden;
+                    -webkit-animation: hexagon-rotation 2.3s ease;
+                    -moz-animation: hexagon-rotation 2.3s ease;
+                    -ms-animation: hexagon-rotation 2.3s ease;
+                    -o-animation: hexagon-rotation 2.3s ease;
+                    animation: hexagon-rotation 2.3s ease;
+                }
+                #mystatus {
+                    -webkit-animation: show-mystatus 4s ease;
+                    -moz-animation: show-mystatus 4s ease;
+                    -ms-animation: show-mystatus 4s ease;
+                    -o-animation: show-mystatus 4s ease;
+                    animation: show-mystatus 4s ease;
+                }
+                .row-container {
+                    display: block;
+                    height: 50px;
+                    position: relative;
+                    overflow: hidden;
+                }
+                .row-container-element {
+                    display: inline-block;
+                    height: 0;
+                    padding: 8px;
+                    margin-top: 10px;
+                }
+                .first-row {
+                    -webkit-animation: slide-top 2s ease;
+                    -moz-animation: slide-top 2s ease;
+                    -ms-animation: slide-top 2s ease;
+                    -o-animation: slide-top 2s ease;
+                    animation: slide-top 2s ease;
+                }
+                .last-row {
+                    -webkit-animation: slide-bottom 2s ease;
+                    -moz-animation: slide-bottom 2s ease;
+                    -ms-animation: slide-bottom 2s ease;
+                    -o-animation: slide-bottom 2s ease;
+                    animation: slide-bottom 2s ease;
+                }
+                .row-from-left {
+                    -webkit-animation: slide-left 2s ease;
+                    -moz-animation: slide-left 2s ease;
+                    -ms-animation: slide-left 2s ease;
+                    -o-animation: slide-left 2s ease;
+                    animation: slide-left 2s ease;
+                }
+                .row-from-right {
+                    -webkit-animation: slide-right 2s ease;
+                    -moz-animation: slide-right 2s ease;
+                    -ms-animation: slide-right 2s ease;
+                    -o-animation: slide-right 2s ease;
+                    animation: slide-right 2s ease;
+                }
+                @keyframes slide-top {
+                    from { top: -50px; }
+                    to { top: 0px; }
+                }
+                @keyframes slide-bottom {
+                    from { bottom: -50px; }
+                    to {  bottom: 0px; }
+                }
+                @keyframes slide-left {
+                    from { left: -750px; }
+                    to { left: 0px; }
+                }
+                @keyframes slide-right {
+                    from { right: -750px; }
+                    to { right: 0px; }
+                }
+                @keyframes hexagon-rotation {
+                    0% { transform: rotate(360deg) }
+                }
+                @keyframes show-mystatus {
+                    0% { opacity: 0; }
+                    50% { opacity: 0; }
+                    100% { opacity: 1; }
+                }
+            </style>
+            
 <!-- hexagon div -->
 <div id="hexagon">
 <!-- row 1 -->
@@ -200,91 +287,6 @@
 </div>
 
 </div> <!-- hexagon div -->
-
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <style>
-            #hexagon {
-                width: 750px;
-                text-align: center;
-                overflow: hidden;
-                -webkit-animation: hexagon-rotation 2.3s ease;
-                -moz-animation: hexagon-rotation 2.3s ease;
-                -ms-animation: hexagon-rotation 2.3s ease;
-                -o-animation: hexagon-rotation 2.3s ease;
-                animation: hexagon-rotation 2.3s ease;
-            }
-            #mystatus {
-                -webkit-animation: show-mystatus 4s ease;
-                -moz-animation: show-mystatus 4s ease;
-                -ms-animation: show-mystatus 4s ease;
-                -o-animation: show-mystatus 4s ease;
-                animation: show-mystatus 4s ease;
-            }
-            .row-container {
-                display: block;
-                height: 50px;
-                position: relative;
-                overflow: hidden;
-            }
-            .row-container-element {
-                display: inline-block;
-                height: 0;
-                padding: 8px;
-                margin-top: 10px;
-            }
-            .first-row {
-                -webkit-animation: slide-top 2s ease;
-                -moz-animation: slide-top 2s ease;
-                -ms-animation: slide-top 2s ease;
-                -o-animation: slide-top 2s ease;
-                animation: slide-top 2s ease;
-            }
-            .last-row {
-                -webkit-animation: slide-bottom 2s ease;
-                -moz-animation: slide-bottom 2s ease;
-                -ms-animation: slide-bottom 2s ease;
-                -o-animation: slide-bottom 2s ease;
-                animation: slide-bottom 2s ease;
-            }
-            .row-from-left {
-                -webkit-animation: slide-left 2s ease;
-                -moz-animation: slide-left 2s ease;
-                -ms-animation: slide-left 2s ease;
-                -o-animation: slide-left 2s ease;
-                animation: slide-left 2s ease;
-            }
-            .row-from-right {
-                -webkit-animation: slide-right 2s ease;
-                -moz-animation: slide-right 2s ease;
-                -ms-animation: slide-right 2s ease;
-                -o-animation: slide-right 2s ease;
-                animation: slide-right 2s ease;
-            }
-            @keyframes slide-top {
-                from { top: -50px; }
-                to { top: 0px; }
-            }
-            @keyframes slide-bottom {
-                from { bottom: -50px; }
-                to {  bottom: 0px; }
-            }
-            @keyframes slide-left {
-                from { left: -750px; }
-                to { left: 0px; }
-            }
-            @keyframes slide-right {
-                from { right: -750px; }
-                to { right: 0px; }
-            }
-            @keyframes hexagon-rotation {
-                0% { transform: rotate(360deg) }
-            }
-            @keyframes show-mystatus {
-                0% { opacity: 0; }
-                50% { opacity: 0; }
-                100% { opacity: 1; }
-            }
-        </style>
+        </div>
     </foreignObject>
 </svg>
