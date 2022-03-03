@@ -2,13 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="238mm"
-   viewBox="0 0 210 238"
+   width="450"
+   height="553"
+   viewBox="0 0 119.06251 146.31459"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
    sodipodi:docname="mixed_character.svg"
+   inkscape:export-filename="/home/isnan/projects/sinkyl/assets/mixed_character.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,15 +28,17 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.90583672"
-     inkscape:cx="120.88271"
-     inkscape:cy="357.12838"
-     inkscape:window-width="5048"
-     inkscape:window-height="1376"
+     inkscape:cx="308.5545"
+     inkscape:cy="439.37278"
+     inkscape:window-width="3180"
+     inkscape:window-height="1241"
      inkscape:window-x="72"
      inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer7"
-     height="296mm" />
+     height="296mm"
+     units="px"
+     width="450px" />
   <defs
      id="defs2">
     <clipPath
@@ -99,12 +104,12 @@
        id="layer5"
        inkscape:label="b1">
       <rect
-         style="display:inline;fill:#75a870;fill-opacity:1;stroke:none;stroke-width:0.230867;stroke-linecap:square;stroke-miterlimit:1.5;stroke-opacity:1;paint-order:markers fill stroke"
+         style="display:inline;fill:#75a870;fill-opacity:1;stroke:none;stroke-width:0.136389;stroke-linecap:square;stroke-miterlimit:1.5;stroke-opacity:1;paint-order:markers fill stroke"
          id="rect14801"
-         width="210.09818"
-         height="86.1511"
-         x="-0.096241862"
-         y="151.5585"
+         width="119.04554"
+         height="53.064854"
+         x="-0.10272645"
+         y="93.416756"
          inkscape:export-filename="/home/isnan/projects/sinkyl/assets/mixed_character.png"
          inkscape:export-xdpi="192"
          inkscape:export-ydpi="192" />
@@ -118,7 +123,7 @@
        x="2.4912035"
        y="71.594391"
        clip-path="url(#clipPath4003)"
-       transform="matrix(1.24875,0,0,1.2225978,-8.5117114,-70.510288)"
+       transform="matrix(0.70756502,0,0,0.75306032,-4.8710883,-43.366735)"
        inkscape:export-filename="/home/isnan/projects/sinkyl/assets/mixed_character.png"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
@@ -147,11 +152,11 @@
        id="layer7"
        inkscape:label="b3">
       <rect
-         style="display:inline;fill:#d4aa00;fill-opacity:1;stroke:none;stroke-width:0.230867;stroke-linecap:square;stroke-miterlimit:1.5;stroke-opacity:1;paint-order:markers fill stroke"
+         style="display:inline;fill:#d4aa00;fill-opacity:1;stroke:none;stroke-width:0.136389;stroke-linecap:square;stroke-miterlimit:1.5;stroke-opacity:1;paint-order:markers fill stroke"
          id="rect14801-6"
-         width="210.09818"
-         height="86.1511"
-         x="-0.081275433"
+         width="119.04554"
+         height="53.064854"
+         x="-0.094246194"
          y="0.16702804"
          inkscape:export-filename="/home/isnan/projects/sinkyl/assets/mixed_character.png"
          inkscape:export-xdpi="192"
@@ -166,7 +171,7 @@
        x="77.043274"
        y="104.34031"
        clip-path="url(#clipPath14086)"
-       transform="matrix(1.182344,0,0,1.182344,-14.528435,-103.39361)"
+       transform="matrix(0.66993815,0,0,0.72826595,-8.2802761,-63.621249)"
        inkscape:export-filename="/home/isnan/projects/sinkyl/assets/mixed_character.png"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
@@ -181,12 +186,12 @@
        id="layer6"
        inkscape:label="b2">
       <rect
-         style="display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.200941;stroke-linecap:square;stroke-miterlimit:1.5;stroke-opacity:1;paint-order:markers fill stroke"
+         style="display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.11871;stroke-linecap:square;stroke-miterlimit:1.5;stroke-opacity:1;paint-order:markers fill stroke"
          id="rect14801-7"
-         width="210.1281"
-         height="65.255104"
+         width="119.0625"
+         height="40.193947"
          x="-0.11120465"
-         y="86.318123"
+         y="53.23188"
          inkscape:export-filename="/home/isnan/projects/sinkyl/assets/mixed_character.png"
          inkscape:export-xdpi="192"
          inkscape:export-ydpi="192" />
@@ -200,7 +205,7 @@
        x="-3.5431662"
        y="111.21427"
        clip-path="url(#clipPath13748)"
-       transform="matrix(1.182344,0,0,1.182344,-17.531883,-105.82253)"
+       transform="matrix(0.66993815,0,0,0.72826595,-9.9820857,-65.117345)"
        inkscape:export-filename="/home/isnan/projects/sinkyl/assets/mixed_character.png"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
