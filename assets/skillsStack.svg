@@ -1962,110 +1962,48 @@
       </g>
     </g>
   </g>
-   <style>
-      #main-container {
-         -webkit-animation: hexagon-rotation 2.8s ease;
-         -moz-animation: hexagon-rotation 2.8s ease;
-         -ms-animation: hexagon-rotation 2.8s ease;
-         -o-animation: hexagon-rotation 2.8s ease;
-         animation: hexagon-rotation 2.8s ease;
-         transform-origin: 50% 50%;
-      }
-
-      #row1 {
-         -webkit-animation: slide-top 2.5s ease;
-         -moz-animation: slide-top 2.5s ease;
-         -ms-animation: slide-top 2.5s ease;
-         -o-animation: slide-top 2.5s ease;
-         animation: slide-top 2.5s ease;
-      }
-
-      #row10{
-         -webkit-animation: slide-bottom 2.5s ease;
-         -moz-animation: slide-bottom 2.5s ease;
-         -ms-animation: slide-bottom 2.5s ease;
-         -o-animation: slide-bottom 2.5s ease;
-         animation: slide-bottom 2.5s ease;
-      }
-
-      #row2, #row4, #row6, #row8 {
-         -webkit-animation: slide-left 2.5s ease;
-         -moz-animation: slide-left 2.5s ease;
-         -ms-animation: slide-left 2.5s ease;
-         -o-animation: slide-left 2.5s ease;
-         animation: slide-left 2.5s ease;
-      }
-
-      #row3, #row5, #row7, #row9 {
-         -webkit-animation: slide-right 2.5s ease;
-         -moz-animation: slide-right 2.5s ease;
-         -ms-animation: slide-right 2.5s ease;
-         -o-animation: slide-right 2.5s ease;
-         animation: slide-right 2.5s ease;
-      }
-
-      @keyframes slide-top {
-         0% {
-            transform: translateY(-20%);
-         }
-
-         100% {
-            transform: translateY(0%);
-         }
-      }
-
-      @keyframes slide-bottom {
-         0% {
-            transform: translateY(20%);
-         }
-
-         100% {
-            transform: translateY(0%);
-         }
-      }
-
-      @keyframes slide-left {
-         0% {
-            transform: translateX(-100%);
-         }
-
-         100% {
-            transform: translateX(0%);
-         }
-      }
-
-      @keyframes slide-right {
-         0% {
-            transform: translateX(100%);
-         }
-
-         100% {
-            transform: translateX(0%);
-         }
-      }
-
-      @keyframes hexagon-rotation {
-         0% {
-            transform: rotate(0deg)
-         }
-
-         100% {
-            transform: rotate(-360deg)
-         }
-      }
-
-      @keyframes show-mystatus {
-         0% {
-            opacity: 0;
-         }
-
-         50% {
-            opacity: 0;
-         }
-
-         100% {
-            opacity: 1;
-         }
-      }
-   </style>
+  <style
+     type="text/css"
+     id="style63307">.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#252422;}</style>
+  <style
+     type="text/css"
+     id="style164329">.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#E44D26;} .st1{fill-rule:evenodd;clip-rule:evenodd;fill:#F16529;} .st2{fill-rule:evenodd;clip-rule:evenodd;fill:#EBEBEB;} .st3{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+  <style
+     type="text/css"
+     id="style192232">.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#DD0031;} .st1{fill-rule:evenodd;clip-rule:evenodd;fill:#C3002F;} .st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+  <style
+     type="text/css"
+     id="style220514">.st0{fill:#0091E2;}</style>
+  <style
+     type="text/css"
+     id="style234936">.st0{fill:#326DE6;} .st1{fill:#FFFFFF;}</style>
+  <style
+     type="text/css"
+     id="style244626">.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;filter:url(#Adobe_OpacityMaskFilter);} .st1{mask:url(#mask0_1_);} .st2{fill:#0065A9;} .st3{fill:#007ACC;} .st4{fill:#1F9CF0;} .st5{opacity:0.25;} .st6{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}</style>
+  <style
+     type="text/css"
+     id="style322024">.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#00ACD7;} .st1{fill:#00ACD7;}</style>
+  <style
+     type="text/css"
+     id="style327109">.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#00ACD7;} .st1{fill:#00ACD7;}</style>
+  <style
+     type="text/css"
+     id="style421262">.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#252422;}</style>
+  <style
+     type="text/css"
+     id="style421627">.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#252422;}</style>
+  <style
+     type="text/css"
+     id="style421764">.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#252422;}</style>
+  <style
+     type="text/css"
+     id="style426066">.st0{fill:#F05133;}</style>
+  <style
+     id="style490746">.st0{fill:#333}</style>
+  <style
+     id="style1272">.st0{fill:#007acc}.st1{fill:#fff}</style>
+  <style
+     id="style1411">.st0{fill:#007acc}.st1{fill:#fff}</style>
+  <style
+     id="style9348">.st0{fill:#333}</style>
 </svg>

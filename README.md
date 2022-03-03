@@ -15,5 +15,17 @@
     </tr>
 </table>
 
-
 <img src="./assets/skillsStack.svg" />
+
+<div id="mystatus">
+    <p>The OX above represent one of the Chinese zodiac calendar animals. </p>
+    <p>
+        I hope to have projects that require this dude <img src="./assets/gopher.png"  alt="gopher" width="50"/> so I can add it to my skills stack.
+    </p>
+    </br></br>
+    <p>
+        I do skip leg day sometimes 😬
+        </br>
+        <img src="./assets/mixed_character.png" alt="mixed character" width="450"/>
+    </p>
+</div>
