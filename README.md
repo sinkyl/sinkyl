@@ -15,13 +15,14 @@
     </tr>
 </table>
 
-<img src="./assets/skillsStack.svg" />
+![Skill Stack](./assets/skillsStack.svg)
 
-<p>The OX above represents one of the Chinese zodiac calendar animals. </p>
-<p>
+<!-- <p>The OX above represents one of the Chinese zodiac calendar animals. </p> -->
+<!-- <p>
     I hope to have projects that require this dude <img src="./assets/gopher.svg"  alt="gopher"/> so I can add it to my skill stack.
-</p>
+</p> -->
 </br></br>
 
 <p>I do skip leg day sometimes 😬 </p>
-<img src="./assets/mixed_character.svg" alt="mixed character"/>
+
+![mixed_character](./assets/mixed_character.svg)
